@@ -6,7 +6,7 @@
 - 💞️ I’m looking to collaborate on Android native project
 - 📫 How to reach me 
 - <a href="https://www.linkedin.com/in/allukman/">
-  <img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png"/>
+  <img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" height="20rem" width="20rem"/>
 </a>
 
 <p align="center">
