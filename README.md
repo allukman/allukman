@@ -7,6 +7,7 @@
 - 📫 How to reach me 
 
 <p align="center">
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&count_private=true)
   <img src="https://github-readme-stats.vercel.app/api?username=allukman&hide_border=true&theme=nord" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=allukman&layout=compact&hide_border=true&card_width=250&theme=nord&langs_count=6" height="195rem" />
 </p>
