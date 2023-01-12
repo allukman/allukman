@@ -5,6 +5,9 @@
 - 🌱 I’m currently learning Kotlin & Flutter
 - 💞️ I’m looking to collaborate on Android native project
 - 📫 How to reach me 
+- <a href="https://www.linkedin.com/in/allukman/">
+  <img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png"/>
+</a>
 
 <p align="center">
   <img src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=allukman&show_icons=true&include_all_commits=true&theme=radical" />
