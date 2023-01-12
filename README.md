@@ -7,8 +7,7 @@
 - 📫 How to reach me 
 - <a href="https://www.linkedin.com/in/allukman/">
   <img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" height="20rem" width="20rem"/>
-</a>
-<a href="https://wa.me/6281911976388">
+</a><a href="https://wa.me/6281911976388">
   <img align="center" src="https://png.pngtree.com/png-vector/20221018/ourmid/pngtree-whatsapp-mobile-software-icon-png-image_6315991.png" height="20rem" width="20rem"/>
 </a>
 <p align="center">
