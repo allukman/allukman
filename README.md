@@ -6,18 +6,9 @@
 - 💞️ I’m looking to collaborate on Android native project
 - 📫 How to reach me 
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=ikrimaamanda&show_icons=true&include_all_commits=true&theme=radical" alt="Ikrima's github stats" />
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=ikrimaamanda&layout=compact&theme=radical" />
-</a>
-
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&count_private=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=allukman&layout=compact&hide_border=true&card_width=250&theme=nord&langs_count=6" height="195rem" />
+  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=allukman&show_icons=true&include_all_commits=true&theme=radical" />
+  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=allukman&layout=compact&theme=radical" height="195rem" />
 </p>
 
 <br />
