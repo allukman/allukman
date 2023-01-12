@@ -2,7 +2,7 @@
 
 - 👋 Hi, I’m @allukman
 - 👀 I’m interested in Mobile Programming
-- 🌱 I’m currently learning Kotlin 
+- 🌱 I’m currently learning Kotlin & Flutter
 - 💞️ I’m looking to collaborate on Android native project
 - 📫 How to reach me 
 
