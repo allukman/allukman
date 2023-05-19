@@ -19,9 +19,7 @@
   <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=allukman&layout=compact&theme=radical" height="195rem" />
 </p>
 
-<br />
-
-- ## Connect with me:
+## 👥 Connect with me:
 <p align="left">
 
 <a href = "https://www.linkedin.com/in/allukman/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
