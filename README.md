@@ -26,10 +26,6 @@
 
 <br />
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=allukman&label=Profile%20views&color=0e75b6&style=flat" alt="robiot" />
-</p>
-
 ## ❤ Views and Followers
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=allukman">
