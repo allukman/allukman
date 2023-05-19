@@ -34,7 +34,7 @@
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=allukman">
 </a>
-<a href="https://github.com/allukman?tab=followers"><img src="https://img.shields.io/github/followers/Noor-e-Iqra?label=Followers&style=social" alt="GitHub Badge"></a>
+<a href="https://github.com/allukman?tab=followers"><img src="https://img.shields.io/github/followers/allukman?label=Followers&style=social" alt="GitHub Badge"></a>
 
 <!---
 allukman/allukman is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
