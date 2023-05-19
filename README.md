@@ -4,13 +4,6 @@
 - 👀 I’m interested in Mobile Programming
 - 🌱 I’m currently learning Kotlin, React Native & Flutter
 - 💞️ I’m looking to collaborate on Mobile Apps project
-
-
-- ## Connect with me:
-<p align="left">
-
-<a href = "https://www.linkedin.com/in/allukman/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href = "mailto:allukman1802@gmail.com? subject={subject}&body={content}"><img src="https://img.icons8.com/fluent/48/000000/gmail.png"/></a>
   
 ## 🚀 Technologies I know
 -  <img src="https://img.shields.io/badge/-Kotlin-orange?style=flat&logo=kotlin&logoColor=blueviolet" height="30" /> <img src="https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white" height="30" /> <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" height="30" /> <img src="https://img.shields.io/badge/-React%20Native-20232A?style=flat&logo=react&logoColor=61DAFB" height="30" /> 
@@ -25,6 +18,14 @@
 </p>
 
 <br />
+
+- ## Connect with me:
+<p align="left">
+
+<a href = "https://www.linkedin.com/in/allukman/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<a href = "mailto:allukman1802@gmail.com? subject={subject}&body={content}"><img src="https://img.icons8.com/fluent/48/000000/gmail.png"/></a>
+  
+</p>
 
 ## ❤ Views and Followers
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
