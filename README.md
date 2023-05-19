@@ -16,9 +16,9 @@
 -  <img src="https://img.shields.io/badge/-Kotlin-orange?style=flat&logo=kotlin&logoColor=blueviolet" height="30" />
 -  <img src="https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white" height="30" />
 -  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" height="30" />
--  <img src="https://img.shields.io/badge/-Github%20Actions-black?style=flat&logo=github-actions&logoColor=white" height="30" />
--  <img src="https://img.shields.io/badge/-Git-black?style=flat&logo=git" height="30" />
--  <img src="https://img.shields.io/badge/-GitHub-black?style=flat&logo=github" height="30" />
+-  <img src="https://img.shields.io/badge/-Github%20Actions-lightgrey?style=flat&logo=github-actions&logoColor=white" height="30" />
+-  <img src="https://img.shields.io/badge/-Git-lightgrey?style=flat&logo=git" height="30" />
+-  <img src="https://img.shields.io/badge/-GitHub-lightgrey?style=flat&logo=github" height="30" />
 -  <img src="https://img.shields.io/badge/-VS%20Code-0078D4?style=flat&logo=visual-studio-code" height="30" />
 -  <img src="https://img.shields.io/badge/-Firebase-orange?style=flat&logo=firebase&logoColor=yellow" height="30" />
 -  <img src="https://img.shields.io/badge/-Redux-purple?style=flat&logo=redux&logoColor=white" height="30" />
