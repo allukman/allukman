@@ -1,6 +1,6 @@
 # Hello there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-- 👋 Hi, I’m <img src="https://img.shields.io/badge/-Al%20Lukman-blue?style=flat&logo=android&logoColor=green" height="15" />
+- 👋 Hi, I’m Al Lukman
 - 👀 I’m interested in Mobile Programming
 - 🌱 I’m currently learning Kotlin, React Native & Flutter
 - 💞️ I’m looking to collaborate on Mobile Apps project
