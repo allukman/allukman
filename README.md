@@ -1,5 +1,11 @@
 # Hello there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
+## 📊 GitHub Stats
+  
+<p align="center">
+  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=allukman&show_icons=true&include_all_commits=true&theme=radical" />
+</p>
+
 ## 🙋‍ About Me
 
 - 👋 Hi, I’m Al Lukman
@@ -9,13 +15,13 @@
   
 ## 🚀 Technologies I know
 -  <img src="https://img.shields.io/badge/-Kotlin-orange?style=flat&logo=kotlin&logoColor=blueviolet" height="30" /> <img src="https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white" height="30" /> <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" height="30" /> <img src="https://img.shields.io/badge/-React%20Native-20232A?style=flat&logo=react&logoColor=61DAFB" height="30" /> 
--  <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" height="30" /> <img src="https://img.shields.io/badge/-Github%20Actions-lightgrey?style=flat&logo=github-actions&logoColor=white" height="30" /> <img src="https://img.shields.io/badge/-Git-lightgrey?style=flat&logo=git" height="30" /> <img src="https://img.shields.io/badge/-GitHub-lightgrey?style=flat&logo=github" height="30" />
--  <img src="https://img.shields.io/badge/-VS%20Code-0078D4?style=flat&logo=visual-studio-code" height="30" /> <img src="https://img.shields.io/badge/-Firebase-orange?style=flat&logo=firebase&logoColor=yellow" height="30" /> <img src="https://img.shields.io/badge/-Redux-purple?style=flat&logo=redux&logoColor=white" height="30" /> <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white" height="30" />
+-  <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" height="30" /> <img src="https://img.shields.io/badge/-Firebase-orange?style=flat&logo=firebase&logoColor=yellow" height="30" /> <img src="https://img.shields.io/badge/-Redux-purple?style=flat&logo=redux&logoColor=white" height="30" /> <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white" height="30" />
+-  <img src="https://img.shields.io/badge/-VS%20Code-0078D4?style=flat&logo=visual-studio-code" height="30" />  <img src="https://img.shields.io/badge/-Github%20Actions-lightgrey?style=flat&logo=github-actions&logoColor=white" height="30" /> <img src="https://img.shields.io/badge/-Git-lightgrey?style=flat&logo=git" height="30" /> <img src="https://img.shields.io/badge/-GitHub-lightgrey?style=flat&logo=github" height="30" />
 
-## 📊 GitHub Stats
-  
+
+## 📊 Most Used Languages
+
 <p align="center">
-  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=allukman&show_icons=true&include_all_commits=true&theme=radical" />
   <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=allukman&layout=compact&theme=radical" height="195rem" />
 </p>
 
