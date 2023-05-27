@@ -2,9 +2,8 @@
 
 ## 📊 GitHub Stats
   
-<p align="center">
   <img src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=allukman&show_icons=true&include_all_commits=true&theme=radical" />
-</p>
+
 
 ## 🙋‍ About Me
 
@@ -21,9 +20,7 @@
 
 ## 📊 Most Used Languages
 
-<p align="center">
   <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=allukman&layout=compact&theme=radical" height="195rem" />
-</p>
 
 ## 👥 Connect with me:
 <p align="left">
