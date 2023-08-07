@@ -27,6 +27,7 @@
 
 <a href = "https://www.linkedin.com/in/allukman/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 <a href = "mailto:allukman1802@gmail.com? subject={subject}&body={content}"><img src="https://img.icons8.com/fluent/48/000000/gmail.png"/></a>
+<a href = "https://www.instagram.com/allukman__/"><img src="https://img.icons8.com/color/48/instagram-new--v1.png"/></a>
   
 </p>
 
